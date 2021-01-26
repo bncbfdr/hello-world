@@ -1,0 +1,38 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.gao.gateway"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "microservice",
+    "baseName": "hello",
+    "packageName": "com.gao.gateway",
+    "packageFolder": "com/gao/gateway",
+    "serverPort": "8081",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "Yjg5MjBlNTY2NWI5MzhiMWQyNmIzZDM2OWVhYjdkNDk4MWJhMTNjMGQ1OTAyY2VlZGMyZjgzMGEyOTEzMDgxNGRiMjI5ZjM2MzhkOWQ1OGRjNTFkZWY0NmNlYTNhOWI2ZjM2NTg1YWM0NWIzM2Q5NmMxOWM0ZDJmMGZlZjEzZTQ=",
+    "embeddableLaunchScript": false,
+    "creationTimestamp": 1611653934956,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
